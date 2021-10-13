@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://samroodali.github.io/csb-44jxd/static/css/main.afd7172b.chunk.css",
+    "main.js": "https://samroodali.github.io/csb-44jxd/static/js/main.3e3e53a1.chunk.js",
+    "main.js.map": "https://samroodali.github.io/csb-44jxd/static/js/main.3e3e53a1.chunk.js.map",
+    "runtime-main.js": "https://samroodali.github.io/csb-44jxd/static/js/runtime-main.a1ad2dae.js",
+    "runtime-main.js.map": "https://samroodali.github.io/csb-44jxd/static/js/runtime-main.a1ad2dae.js.map",
+    "static/js/2.5d4135d4.chunk.js": "https://samroodali.github.io/csb-44jxd/static/js/2.5d4135d4.chunk.js",
+    "static/js/2.5d4135d4.chunk.js.map": "https://samroodali.github.io/csb-44jxd/static/js/2.5d4135d4.chunk.js.map",
+    "index.html": "https://samroodali.github.io/csb-44jxd/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "https://samroodali.github.io/csb-44jxd/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.5d4135d4.chunk.js.LICENSE.txt": "https://samroodali.github.io/csb-44jxd/static/js/2.5d4135d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1ad2dae.js",
+    "static/js/2.5d4135d4.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.3e3e53a1.chunk.js"
+  ]
+}
